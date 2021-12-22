@@ -6,5 +6,5 @@ A [gedit](https://wiki.gnome.org/Apps/Gedit) color scheme using the [Solarized d
 
 #### Activating the scheme
 
-1. Move the solarwaita-dark.xml file to gedit's styles folder (~/.local/share/gedit/styles/)
+1. Move the solarwaita-dark.xml file to gedit's styles folder `/.local/share/gedit/styles/`
 2. Activate it in gedit's preferences dialog
