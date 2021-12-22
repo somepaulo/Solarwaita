@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ The MIT License (MIT)
+
+ Copyright (c) 2020 Paulo Fino <finomeno@gmail.com>
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+-->
+
+<style-scheme name="Solarwaita Dark" id="solarwaita-dark" version="1.0">
+  <author>Paulo Fino</author>
+  <description>Colour scheme using Solarized dark colour palette tweaked for Adwaita Dark</description>
+
+  <!-- Global -->
+  <style name="text"	foreground="#f6f5f4" background="#353535" />
+  <style name="selection"	foreground="#ffffff" background="#15539e" />
+  <style name="cursor"	foreground="#ffffff" />
+  <style name="secondary-cursor"	foreground="#f6f5f4" />
+  <style name="current-line"	background="#2e2e2e" />
+  <style name="line-numbers"	foreground="#5e5c64" background="#292929" />
+  <style name="background-pattern"	background="#474747" />
+  <style name="right-margin"	foreground="#eee8d5" background="#93a1a1" />
+
+  <!-- Matching -->
+  <style name="bracket-match"	foreground="#b58900" bold="true" underline="true" />
+  <style name="bracket-mismatch"	foreground="#dc322f" bold="true" underline="true" />
+  <style name="search-match"	foreground="#2e2e2e" background="#b58900" />
+
+  <!-- Comments -->
+  <style name="def:comment"	foreground="#77767b" />
+  <style name="def:shebang"	foreground="#586e75" bold="true" />
+  <style name="def:doc-comment-element"	italic="true" />
+
+  <!-- Common -->
+  <style name="def:constant"	foreground="#859900" />
+  <style name="def:special-char"	foreground="#859900" />
+  <style name="def:identifier"	foreground="#268bd2" />
+  <style name="def:statement"	foreground="#d33682" />
+  <style name="def:keyword" foreground="#cb4b16" />
+  <style name="def:builtin" foreground="#d33682" />
+  <style name="def:type"	foreground="#b58900" />
+  <style name="def:function" foreground="#2aa198"/>
+  <style name="def:emphasis"	italic="true" />
+  <style name="def:strong-emphasis"	foreground="#cb4b16" />
+  <style name="def:inline-code"	foreground="#268Bd2" />
+  <style name="def:insertion"	underline="true" />
+  <style name="def:deletion"	strikethrough="true" />
+  <style name="def:link-text"	foreground="#586e75" />
+  <style name="def:link-symbol"	foreground="#586e75" bold="true" />
+  <style name="def:link-destination"	italic="true" underline="true" />
+  <style name="def:heading"	foreground="#b58900" />
+  <style name="def:thematic-break"	foreground="#b58900" />
+  <style name="def:preformatted-section"	foreground="#268bd2" />
+  <style name="def:list-marker"	foreground="#cb4b16" />
+  <style name="def:operator"	foreground="#859900" />
+  <style name="def:preprocessor"	foreground="#6c71c4" />
+  <style name="def:error"	foreground="#dc322f" bold="true" />
+  <style name="def:note"	foreground="#d33682" bold="true" />
+  <style name="def:net-address"	italic="true" underline="true" />
+
+  <!-- CSS -->
+  <style name="css:at-rule"	foreground="#6c71c4" />
+  <style name="css:color"	foreground="#2aa198" />
+</style-scheme>
