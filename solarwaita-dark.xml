@@ -43,19 +43,19 @@
   <style name="search-match"	foreground="#2e2e2e" background="#b58900" />
 
   <!-- Comments -->
-  <style name="def:comment"	foreground="#77767b" />
+  <style name="def:comment"	foreground="#77767b" italic="true" />
   <style name="def:shebang"	foreground="#586e75" bold="true" />
   <style name="def:doc-comment-element"	italic="true" />
 
   <!-- Common -->
-  <style name="def:constant"	foreground="#859900" />
+  <style name="def:constant"	foreground="#2aa198" />
   <style name="def:special-char"	foreground="#859900" />
   <style name="def:identifier"	foreground="#268bd2" />
   <style name="def:statement"	foreground="#d33682" />
   <style name="def:keyword" foreground="#cb4b16" />
   <style name="def:builtin" foreground="#d33682" />
   <style name="def:type"	foreground="#b58900" />
-  <style name="def:function" foreground="#2aa198"/>
+  <style name="def:function" foreground="#859900"/>
   <style name="def:emphasis"	italic="true" />
   <style name="def:strong-emphasis"	foreground="#cb4b16" />
   <style name="def:inline-code"	foreground="#268Bd2" />
@@ -76,5 +76,5 @@
 
   <!-- CSS -->
   <style name="css:at-rule"	foreground="#6c71c4" />
-  <style name="css:color"	foreground="#2aa198" />
+  <style name="css:color"	foreground="#859900" />
 </style-scheme>
