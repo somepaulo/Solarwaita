@@ -2,7 +2,7 @@
 
 A [gedit](https://wiki.gnome.org/Apps/Gedit) color scheme using the [Solarized dark](https://ethanschoonover.com/solarized/) color palette. Tweaked to fit Adwaita Dark.
 
-![screenshot](https://user-images.githubusercontent.com/15643750/147054081-ae8fbb1c-a9c9-4c77-b4e0-6e1639f708cd.png)
+![Screenshot from 2021-12-29 04-26-45](https://user-images.githubusercontent.com/15643750/147618786-30befda1-0cc4-4438-9cab-e98f3e68bdf5.png)
 
 #### Activating the scheme
 
